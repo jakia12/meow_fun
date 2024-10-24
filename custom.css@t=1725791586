@@ -1,0 +1,9 @@
+.clickbuttoncopy {
+    cursor: pointer; /* Изменение курсора на указатель */
+}
+
+/* Кастомный курсор по умолчанию */
+body {
+    cursor: url('https://static.tildacdn.com/tild3933-3464-4264-a563-383561396237/pack2662_3.png'), auto;
+}
+
